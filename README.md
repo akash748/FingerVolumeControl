@@ -21,11 +21,13 @@ To train this module they have annotated 30,000 images manually so the results a
 
 
 
+<p><img align = "centre"  src = "https://github.com/akash748/LinearRegGif/blob/main/handland.png" width = "800" height = "320"/></p>
 
 
 ## Demo
 
-Insert gif or link to demo
+
+<p><img align = "centre" alt = "gif" src = "https://github.com/akash748/LinearRegGif/blob/main/Volume_Control.gif" width = "800" height = "320"/></p>
 
 
 ## Installation
